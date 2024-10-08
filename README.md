@@ -5,9 +5,17 @@
 - [걍교수의 AIT code](https://www.youtube.com/@aitcode)
 - [오픈소스소프트웨어](https://www.youtube.com/watch?v=m0nk6c8bjYo&list=PLuiwxLXzcfdVnI_flMq1CVFyHPG6f8J42)
 
+## 중간고사와 기말고사
+- 중간고사 범위
+  - 1주와 6주 대면수업 내용
+  - 2주에서 8주까지 온라인 원격수업(#01-18 동영상과 자료)
+- 기말고사 범위
+  - 전체 수업 범위
+
 ## 개인과제: 다음 내용을 디자인 함께 평가
 - 개인 github 저장소 구축
-  - 잔디심기, readme.md 파일 작성
+  - 잔디심기(커밋을 자주 하도록)
+  - 개인 github 첫 페이지 꾸미기(readme.md 파일 작성)
 - OSS 교과목 내용(Git & GitHub)의 정리
   - 자기주도학습에 의해 하나의 저장소 생성 후 구축
 - 개인과제 주소 업로드
@@ -20,7 +28,8 @@
 - 내용과 함께 깃허브의 다양한 기능 사용 평가
   - 이슈, 마일스톤, 레이블, PR, 위키, 프로젝트 등 
 - 팀(수업의 같은 반 4-7명)별 github 저장소 구축
-  - md 파일, 팀원의 활동이 축적 
+  - 내용 파일은 md 파일로 작성
+  - 팀원의 활동이 축적 
 - 팀과제 주소 업로드
   - [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
   - [B반](https://docs.google.com/spreadsheets/d/1N_nsCXXCHMTXm5z-7ULzgeUfiKECTVSyBsfPgSHF98I/edit?usp=sharing)
